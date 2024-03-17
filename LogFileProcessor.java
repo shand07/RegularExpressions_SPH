@@ -12,11 +12,11 @@ import java.util.regex.Pattern;
  * This class searches the log file for unique IP addresses and usernames,
  * and stores them in separate hashmaps.
  * It also provides methods to print the contents of each hashmap and get their sizes.
- * @author Your Name
+ * @author Sean Hand
  * @version 1.0
  * Assignment 4
  * CS322 - Compiler Construction
- * Spring 20XX
+ * Spring 2024
  */
 public class LogFileProcessor {
     private Map<String, Integer> ipAddressMap;

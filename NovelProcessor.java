@@ -11,11 +11,9 @@ import java.util.regex.Pattern;
 /**
  * This program processes a novel file and a file containing regex patterns, searches for each pattern in the novel,
  * and writes the pattern along with its count to an output file.
- * <p>
  * Assignment 4
  * CS322 - Compiler Construction
  * Spring 2024
- * </p>
  * @author Sean Hand
  * @version 1.0
  */
